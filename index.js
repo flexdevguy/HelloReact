@@ -29,6 +29,7 @@ class App extends Component {
           <div>7</div>
           <div>8</div>
           <div>9</div>
+          <div>10</div>
         </div>
 
         <div class="flex-center-container">
